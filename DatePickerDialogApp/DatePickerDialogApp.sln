@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatePickerDialogApp", "DatePickerDialogApp\DatePickerDialogApp.csproj", "{54DF2B36-B30C-4BC4-893D-2D378E0C6963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Release|iPhone.ActiveCfg = Release|iPhone
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Release|iPhone.Build.0 = Release|iPhone
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{54DF2B36-B30C-4BC4-893D-2D378E0C6963}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

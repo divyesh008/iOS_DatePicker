@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{54DF2B36-B30C-4BC4-893D-2D378E0C6963}|Default">
+  <MonoDevelop.Ide.ItemProperties.DatePickerDialogApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.93C2FACD-B4CE-4C53-AC3A-C578540D39B5" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.DatePickerDialogApp>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatePickerDialogApp/ViewController.cs">
+    <Files>
+      <File FileName="DatePickerDialogApp/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="DatePickerDialogApp/Helper/DatePickerDialog.cs" Line="7" Column="1" />
+      <File FileName="DatePickerDialogApp/Main.storyboard" />
+      <File FileName="DatePickerDialogApp/ViewController.cs" Line="25" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
